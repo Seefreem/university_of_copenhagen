@@ -1,0 +1,6 @@
+*data/
+*datasets/
+*MNIST/
+*wandb/
+*models/
+*.ckpt
